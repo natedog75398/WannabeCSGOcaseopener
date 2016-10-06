@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5600a4733e5e7e3d6189abca7b43c6d3a0f2b07b">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5ff840be59980d12719bd67bf8972294de33b7cc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_a535d54f9190bbf06e6dfb52f5a469c494cdcd13\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_0f4a6ee02ec46da0fb88f9bac2c2d1e2dbfe740e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cfc739599393b1be4ef132b51a818ad50d55f95c">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_70225f76e717599b2d5e01b2be6fd61a9daf7317\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_26191d75ac509f3c074f5b53e43c92a593817d0e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_e9cf24df53bb5731f6a68f0ba08c634f51b669de\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_cb6a217729d01bf0cdd89e1dfbe8d02d4103d0d7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\WannabeCSGOcaseopener\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_3265cf4de3ec21f458ab858149470e9f8cd40586\classes.dex" />
+    </item>
+
+</items>
